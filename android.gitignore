@@ -32,10 +32,12 @@ captures/
 
 # Built application files
 *.ap_
-#*.apk
+*.apk
 
 # Files for the Dalvik VM
 *.dex
 
 # Java class files
 *.class
+
+*.tmp
