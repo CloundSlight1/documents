@@ -23,12 +23,12 @@ proguard/
 captures/
 
 # Intellij
-*.iml
+#*.iml
 
 # Keystore files
 *.jks
 
-.idea/
+#.idea/
 
 # Built application files
 *.ap_
